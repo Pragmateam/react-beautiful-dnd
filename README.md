@@ -1,3 +1,6 @@
+# @pragmateam/react-beautiful-dnd
+
+This project is a fork from [@atlassian/react-beautiful-dnd v13.1.1](https://github.com/atlassian/react-beautiful-dnd/releases/tag/v13.1.1).
 
 ## ⚠️ Maintenance & support
 
